@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-- 🔭 I’m currently study in Lviv Politechnic National Univesity a computer scienes/IOT
-- 🌱 I’m currently learning android developming
+- 🔭 I’m currently studying computer science/IOT at Lviv Polytechnic National Univesity
+- 🌱 I’m currently learning android development
 - 💬 Ask me about Python
 - ⚡ Sports: Sport Orienteering
